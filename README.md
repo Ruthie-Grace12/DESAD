@@ -1,4 +1,1 @@
-# Ruthie - FAKE TECH WEBSITE BRO - 10 March 2021
-Ruthie 
-
-A fake tech website, broh.
+# Ruthie - FAKE TECH WEBSITE  - 10 March 2021
